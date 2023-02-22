@@ -13,7 +13,7 @@ public class TestSetUp {
     public static void setBrowserSettings(String pageURL){
         logger.info("loc.TestSetUp.class: Browser settings set");
         driver = BrowserUtils.setBrowserDriver(BROWSERNAME);
-        BrowserUtils.setCurrentURL(ConfigUtils.getURL(pageURL));
-        WaitsUtils.waitForNewPageToOpen();
+        BrowserUtils.setCurrentURL(pageURL);
+        WaitsUtils.waitForPageToOpen();
     }
 }

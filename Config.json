@@ -1,3 +1,8 @@
 {
-  "mainPage_URL": "https://jsonplaceholder.typicode.com"
+  "config_data":
+  [
+    {
+    "mainPage_URL": "https://jsonplaceholder.typicode.com"
+    }
+  ]
 }

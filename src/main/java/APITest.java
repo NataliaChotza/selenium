@@ -12,11 +12,10 @@ public class APITest {
 
     @BeforeMethod
     public void setUp(){
-        TestSetUp.setBrowserSettings(DataUtils.getPageURL(pageURL));
+        TestSetUp.setBrowserSettings(ConfigUtils.getURL(pageURL));
     }
     @Test
     public void TestGETPOSTMethods(){
-
         APIUtils.GET(ConfigUtils.getURL(pageURL), Posts.getPosts());
 
     }
