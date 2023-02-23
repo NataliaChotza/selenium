@@ -3,12 +3,14 @@ import Utils.APIUtils;
 import Utils.BrowserUtils;
 import Utils.ConfigUtils;
 import Utils.DataUtils;
+import org.testng.Assert;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
 public class APITest {
     static final String pageURL = "mainPage_URL";
+    static final int CODE_200 = 200;
 
     @BeforeMethod
     public void setUp(){
@@ -16,7 +18,9 @@ public class APITest {
     }
     @Test
     public void TestGETPOSTMethods(){
-        APIUtils.GET(ConfigUtils.getURL(pageURL), Posts.getPosts());
+        int responseCode = APIUtils.getResponseCode(ConfigUtils.getURL(pageURL), Posts.getPosts());
+        Assert.assertEquals(CODE_200,responseCode,"The code is diffirent than expected");
+
 
     }
 
