@@ -1,0 +1,22 @@
+{
+    "user1": [{"user_no": "1",
+      "firstname": "Jon",
+      "lastname": "Snow",
+      "email": "knownothing@gmail.com",
+      "age": "30",
+      "salary": "3000",
+      "department": "alpha"
+              }],
+    "user2": [{
+      "user_no": "2",
+      "firstname": "Buttercup",
+      "lastname": "Cumbersnatch",
+      "email": "BudapestCandygram@mail.io",
+      "age": "41",
+      "salary": "2000",
+      "department": "beta"
+
+    }]
+
+
+}
