@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1bacee31-71bb-4b97-b4c0-82a4e786d546" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Pages/MainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Pages/MainPage.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2L3uzGQyGeMyFBLC7hvGlgkYDIx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/Desktop/a1qa/L2/n.chotza&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\a1qa\L2\n.chotza\Task1\src\main\resources" />
+      <recent name="C:\Users\User\Desktop\a1qa\L2\n.chotza\Task1\src\main\java" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.UserInYerFaceTest.AcceptCookiesTest (1)">
+    <configuration name="UserInYerFaceTest.AcceptCookiesTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="n.chotza" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UserInYerFaceTest" />
+      <option name="METHOD_NAME" value="AcceptCookiesTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserInYerFaceTest.HideFormTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="n.chotza" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UserInYerFaceTest" />
+      <option name="METHOD_NAME" value="HideFormTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserInYerFaceTest.HideFormTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Task1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UserInYerFaceTest" />
+      <option name="METHOD_NAME" value="HideFormTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserInYerFaceTest.NavigationTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="n.chotza" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UserInYerFaceTest" />
+      <option name="METHOD_NAME" value="NavigationTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserInYerFaceTest.TimerValidationTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="n.chotza" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UserInYerFaceTest" />
+      <option name="METHOD_NAME" value="TimerValidationTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.UserInYerFaceTest.AcceptCookiesTest (1)" />
+        <item itemvalue="TestNG.UserInYerFaceTest.NavigationTest (1)" />
+        <item itemvalue="TestNG.UserInYerFaceTest.HideFormTest (1)" />
+        <item itemvalue="TestNG.UserInYerFaceTest.TimerValidationTest" />
+        <item itemvalue="TestNG.UserInYerFaceTest.HideFormTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1bacee31-71bb-4b97-b4c0-82a4e786d546" name="Changes" comment="" />
+      <created>1675112349598</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675112349598</updated>
+      <workItem from="1675112352348" duration="392000" />
+      <workItem from="1675168910575" duration="6085000" />
+      <workItem from="1675191668240" duration="6826000" />
+      <workItem from="1675254234861" duration="7833000" />
+      <workItem from="1675279710734" duration="9771000" />
+      <workItem from="1675344604907" duration="8192000" />
+      <workItem from="1675366393953" duration="6607000" />
+      <workItem from="1675843566791" duration="44000" />
+      <workItem from="1675846109733" duration="14212000" />
+      <workItem from="1675933006045" duration="18768000" />
+      <workItem from="1675959221801" duration="7593000" />
+      <workItem from="1675980191044" duration="1383000" />
+      <workItem from="1676012766317" duration="1654000" />
+      <workItem from="1676026802517" duration="5369000" />
+      <workItem from="1676040480671" duration="1306000" />
+      <workItem from="1676894672302" duration="2319000" />
+      <workItem from="1676929310931" duration="1497000" />
+      <workItem from="1676976626222" duration="306000" />
+      <workItem from="1676977790185" duration="519000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/task1" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
